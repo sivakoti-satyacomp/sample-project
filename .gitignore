@@ -1,0 +1,4 @@
+*.env
+images/
+*.py
+sample1.txt
